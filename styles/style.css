@@ -155,7 +155,7 @@ body {
 
 @media (max-width: 1200px){
     .cabecalho{
-        padding: 10%;
+        padding: 5%;
     }
 
     .cabecalho__menu{
@@ -169,6 +169,10 @@ body {
 
     .apresentacao__conteudo{
         width: auto;
+    }
+    
+     .apresentacao__botao{
+        width: 62%;
     }
 
 }
